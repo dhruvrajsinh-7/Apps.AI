@@ -1,0 +1,16 @@
+{
+    "id": "f94ba016-f1c1-4990-a25c-13e420f5db1f",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Nabhag Motivaras",
+        "homepage": "n/a",
+        "support": "n/a"
+    },
+    "name": "Apps.AI",
+    "nameSlug": "appsai",
+    "classFile": "AppsAiApp.ts",
+    "description": "Everything that you need to improve your communication",
+    "implements": []
+}
